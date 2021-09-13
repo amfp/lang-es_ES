@@ -31,6 +31,14 @@ Empty the=Vaciar el
 Recycle Bin=Papelera de Reciclaje
 Deleted Files Log=Registro de Archivos Eliminados
 Recycle Bin Log=Registro de la Papelera de Reciclaje
+Enable on Unassigned Devices= Habilitar en dispositivos no asignados
+Enable Recycle Bin= Habilitar papelera de reciclaje
+Excluded Directories= Directorios excluidos
+here= aquí
+Recycle Bin permissions= Permisos de la papelera de reciclaje
+Starting and stopping the Recycle Bin can cause SMB shares to go offline for a short period= Iniciar y detener la Papelera de reciclaje puede hacer que los recursos compartidos de SMB se desconecten por un período corto
+These actions apply to all shares= Estas acciones se aplican a todos los recursos compartidos.
+to 'Yes' in the SMB settings= a 'Sí' en la configuración de SMB
 ;
 ; Help
 ;
